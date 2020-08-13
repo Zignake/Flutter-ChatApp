@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "452301801019",
+    "firebase_url": "https://flash-chat-d7145.firebaseio.com",
+    "project_id": "flash-chat-d7145",
+    "storage_bucket": "flash-chat-d7145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452301801019:android:d93e49ca0a0977f5efbe1e",
+        "android_client_info": {
+          "package_name": "co.laukik.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452301801019-a7rhn2sjs588mp519a4fijo3i12jbuva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYtPANTmCgDpwSFcfaHwuM89y8J-BOOKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452301801019-a7rhn2sjs588mp519a4fijo3i12jbuva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
